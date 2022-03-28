@@ -38,7 +38,7 @@ Each subpart(alvéole) is divided into 3 subsubparts and on each subsubpart, a s
 
 Then, we tried testing the solution using [Tinkercad](https://www.tinkercad.com/):
 
-![simulation of the PoC](./.github/simulation.jpg)
+![simulation of the PoC](./.github/simulation.png)
 
 Finally, we made the solution.
 The PoC was made using Arduino:
