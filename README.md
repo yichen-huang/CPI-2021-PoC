@@ -34,11 +34,11 @@ The proposed solution was a tool that allowed real time monitoring of the statio
 
 Each subpart(alvéole) is divided into 3 subsubparts and on each subsubpart, a sensor placed above will indicate how many containers there are(up to 2 stacked on each other). There are on average 6 containers max per subpart(alvéole).
 
-![early design of the PoC](./github/early_design.jpg)
+![early design of the PoC](./.github/early_design.jpg)
 
 Then, we tried testing the solution using [Tinkercad](https://www.tinkercad.com/):
 
-![simulation of the PoC](./github/simulation.jpg)
+![simulation of the PoC](./.github/simulation.jpg)
 
 Finally, we made the solution.
 The PoC was made using Arduino:
@@ -48,7 +48,7 @@ The PoC was made using Arduino:
 - Ultrasonic sensor
 - tons of cable
 
-![PoC](./github/finished_poc.jpg)
+![PoC](./.github/finished_poc.jpg)
 
 the sensors feed the distance between the ground(or container(s)) and the sensor to the Arduino Uno which turn that distance into the number of container(s). Then it sends that data to a [Thingspeak](https://thingspeak.com/) channel.
 
