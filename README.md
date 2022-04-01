@@ -1,3 +1,4 @@
+Update 1/4/2022: apparently, my group won (alongside another group) the election of the bests projects this year thanks to this PoC
 # CPI-2021-PoC
 PoC for Stellantis during CPI 2021-2022
 
