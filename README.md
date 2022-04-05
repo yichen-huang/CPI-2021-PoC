@@ -53,4 +53,6 @@ The PoC was made using Arduino:
 
 the sensors feed the distance between the ground(or container(s)) and the sensor to the Arduino Uno which turn that distance into the number of container(s). Then it sends that data to a [Thingspeak](https://thingspeak.com/) channel.
 
+![](./.github/thingspeak.png)
+
 **The finished PoC represents one subpart(alvéole).**
